@@ -1,7 +1,7 @@
 import os
 
 
-BOT_TOKEN = ''
+BOT_TOKEN = '5420378076:AAEO0HOIckXciOSpaLAZ3aohJ7Sj4K4cYE0'
 admins = [
     1099391285,  # Никита
     868136575  # Кирилл
